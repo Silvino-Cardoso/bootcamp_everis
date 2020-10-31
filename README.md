@@ -10,7 +10,7 @@
   <li> Recriar landing page Insagram <a href="https://github.com/Silvino-Cardoso/bootcamp_everis/tree/main/HTML_CSS/landing-instagram">Acessar resolução da atividade </a></li>
   <li>Fundamentos de arquitetura de sistemas</li>
   <li> Javascript ES6 </li>
-  <li>Recriar interface Netflix</li>
+  <li>Recriar interface Netflix <a href="https://github.com/Silvino-Cardoso/bootcamp_everis/tree/main/HTML_CSS_JS/landing-netflix">Acessar resolução da atividade </a></li>
   <li>Map, Filter e Reduce</li>
   <li>Problemas Aritméticos</li>
   <li>Async Await e Promises</li>
