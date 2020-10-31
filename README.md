@@ -14,7 +14,8 @@
   <li>Map, Filter e Reduce</li>
   <li>Problemas Aritméticos</li>
   <li>Async Await e Promises</li>
-  <li>desafios de Problemas Essenciais</li>
+  <li>Requisitando dados de API de CriptoMoedas <a href="https://github.com/Silvino-Cardoso/bootcamp_everis/tree/main/API's/cripto">Acessar resolução da atividade     </a></li>
+  <li>Desafios de Problemas Essenciais</li>
   <li>Requisitando dados de APIs</li>
   <li>Angular</li>
   <li>Busca e laços de repetição</li>
