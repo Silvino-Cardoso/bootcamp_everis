@@ -18,6 +18,7 @@
   <li>Desafios de Problemas Essenciais</li>
   <li>Requisitando dados de APIs</li>
   <li>Angular</li>
+  <li>Projeto Cursos em Angular <a href="https://github.com/Silvino-Cardoso/bootcamp_everis/tree/main/Angular">Acessar resolução da atividade     </a></li>
   <li>Busca e laços de repetição</li>
   <li>Banco de Dados</li>
   <li>Java</li>
