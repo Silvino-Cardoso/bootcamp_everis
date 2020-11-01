@@ -1,0 +1,82 @@
+<h1>Course info</h1>
+<hr>
+
+<form #courseForm="ngForm" *ngIf="course">
+    <div class="form-group row">
+        <label class="col-sm-2 col-from-label"> Name</label>
+        <div class="col-sm-10">
+            <input
+            [(ngModel)]='course.name'
+            #courseName ="ngModel"
+            [ngClass]="{'is-invalid': courseName.invalid}"
+            required
+            name="=name" 
+            class="form-control"
+            >
+            <div class="invalid-feedback">
+               <span>Course name is required</span>  
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label class="col-sm-2 col-from-label"> Price</label>
+        <div class="col-sm-10">
+            <input
+            [(ngModel)]='course.price'
+            #coursePrice ="ngModel"
+            [ngClass]="{'is-invalid': coursePrice.invalid}"
+            required
+            name="=price" 
+            class="form-control"
+            type="number"
+            >
+            <div class="invalid-feedback">
+               <span>Course price is required</span>  
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label class="col-sm-2 col-from-label"> Rating</label>
+        <div class="col-sm-10">
+            <input
+            [(ngModel)]='course.rating'
+            #courseRating ="ngModel"
+            [ngClass]="{'is-invalid': courseRating.invalid}"
+            required name="rating" 
+            class="form-control"
+            type="number"
+            >
+            <div class="invalid-feedback">
+               <span>Course rating is required</span>  
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label class="col-sm-2 col-from-label"> Description</label>
+        <div class="col-sm-10">
+            <input
+            [(ngModel)]='course.description'
+            #courseDescription ="ngModel"
+            [ngClass]="{'is-invalid': courseDescription.invalid}"
+            required name="description" 
+            class="form-control"
+            >
+            <div class="invalid-feedback">
+               <span>Course description is required</span>  
+            </div>
+        </div>
+    </div>
+
+    <button  
+    [disabled]="courseForm.invalid"
+    class="btn btn-primary mr-2"
+    (click)='save()'
+    >Save</button>
+    <button 
+    class="btn btn-secondary"
+    [routerLink]="['/courses']"
+    >Back</button>
+</form>
