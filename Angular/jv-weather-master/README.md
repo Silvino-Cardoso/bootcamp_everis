@@ -12,8 +12,9 @@
  
  <h1> Para visualizar aplicação </h1>
  
- <h3>Clone o repositório </h3>
- <h3>Rode o comando npm install</h3>
- <h3>Para start da aplicação - ng s </h3>
- <h3>Acessar via localhost:4200 </h3>
-  
+ <ul>
+ <li>Clone o repositório </li>
+ <li>Rode o comando npm install</li>
+ <li>Para start da aplicação - ng s </li>
+ <li>Acessar via localhost:4200 </li>
+ </ul>
