@@ -1,0 +1,21 @@
+.navbar {
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  > .navbar-brand {
+    color: #ffffff;
+    
+  }
+}
+
+.col{
+  background-color: #F2F2F2;
+  background-size: contain;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
