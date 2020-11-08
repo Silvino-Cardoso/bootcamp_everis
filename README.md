@@ -20,6 +20,7 @@
   <li>Angular</li>
   <li>Projeto Cursos em Angular <a href="https://github.com/Silvino-Cardoso/bootcamp_everis/tree/main/Angular">Acessar resolução da atividade     </a></li>
   <li>Busca e laços de repetição</li>
+   <li>Projeto Requisitando Dados Api OpenWeather <a href="https://github.com/Silvino-Cardoso/bootcamp_everis/tree/main/Angular/jv-weather-master">Acessar resolução da atividade     </a></li>
   <li>Banco de Dados</li>
   <li>Java</li>
   <li>Spring Boot</li>
