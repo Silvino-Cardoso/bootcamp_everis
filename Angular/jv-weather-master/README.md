@@ -6,7 +6,7 @@
   <ul>
     <li>Métodos HTTp</li>
     <li>Componentes</li>
-    <li>Reduce</li>
+    <li>Redux</li>
     <li>NGRX</li>
   </ul>
  
