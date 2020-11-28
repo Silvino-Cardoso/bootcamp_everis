@@ -23,7 +23,7 @@
    <li>Projeto Requisitando Dados Api OpenWeather <a href="https://github.com/Silvino-Cardoso/bootcamp_everis/tree/main/Angular/jv-weather-master">Acessar resolução da atividade     </a></li>
   <li>Banco de Dados</li>
   <li>Java</li>
-  <li>Spring Boot</li>
+  <li>Spring Boot - Sistema de Gerenciamento de Pessoas -  <a href="https://github.com/Silvino-Cardoso/personapi_dio_everis">Acessar resolução da atividade     </a></li>
   <li>Criar gerenciador de sala de reuniões com JAVA e Angular</li>
   <li>Testes em Java</li>
   <li>Projeto ágeis SCRUM</li>
