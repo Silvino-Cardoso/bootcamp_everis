@@ -24,7 +24,7 @@
   <li>Banco de Dados</li>
   <li>Java</li>
   <li>Spring Boot - Sistema de Gerenciamento de Pessoas -  <a href="https://github.com/Silvino-Cardoso/personapi_dio_everis">Acessar resolução da atividade     </a></li>
-  <li>Criar gerenciador de sala de reuniões com JAVA e Angular</li>
+  <li>Criar gerenciador de sala de reuniões com JAVA e Angular - <a href="https://github.com/Silvino-Cardoso/bootcamp_everis/tree/main/JAVA">Acessar resolução da atividade     </a></li>
   <li>Testes em Java</li>
   <li>Projeto ágeis SCRUM</li>
 </ul>
